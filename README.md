@@ -26,7 +26,7 @@ The cost for this service is based on your Azure services, such as the Web App a
 
 A high-level architectural overview of the Azure Bot Service
 
-More Info: https://docs.microsoft.com/azure/bot-service
+More Info: https://docs.microsoft.com/azure/bot-service?WT.mc_id=academic-0000-leestott
 
 ## The Microsoft Bot Composer 
 
@@ -62,7 +62,7 @@ The cost for this solution is calculated via different plans starting from free 
 
 ![Health Bot Architecture](images/healthbotarch.png)
 
-More Info: https://docs.microsoft.com/healthbot/
+More Info: https://docs.microsoft.com/healthbot/?WT.mc_id=academic-0000-leestott
 
 ## Microsoft QNA
 
@@ -81,7 +81,7 @@ QnA Maker backend architecture
 
 The services consist out of different Azure Services, such as Azure Search, Cognitive Services and Web Apps, the cost of this service is based on the SKU of these services.
 
-More Info:  https://docs.microsoft.com/azure/cognitive-services/qnamaker/
+More Info:  https://docs.microsoft.com/azure/cognitive-services/qnamaker/?WT.mc_id=academic-0000-leestott
 
 ## Dynamics 365 Virtual Agent for Customer Service
 
@@ -95,4 +95,4 @@ The service has it own NLU like engine, where you need to provide several questi
 
 The cost for this service will be per session.
 
-More Info: https://dynamics.microsoft.com/ai/virtual-agent-for-customer-service/
+More Info: https://dynamics.microsoft.com/ai/virtual-agent-for-customer-service/?WT.mc_id=academic-0000-leestott
